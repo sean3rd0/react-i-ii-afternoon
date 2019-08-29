@@ -1,0 +1,39 @@
+.header {
+  display: flex;
+  background: #34A5DA;
+  height: 10vh;
+  align-items: center;
+}
+
+.header>h1 {
+  margin-left: 3vw;
+}
+
+.App {
+  /* display: flex; */
+  background: black;
+  height: 100vh;
+  /* flex-direction: column; */
+}
+
+.body-class {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-display {
+  display: flex;
+  background: white;
+  margin-top: 15vh;
+  width: 84vw; 
+  height: 55vh;
+} 
+
+.instrument-pannel{
+  margin-top:
+}
+
+button {
+  margin-top:
+}
